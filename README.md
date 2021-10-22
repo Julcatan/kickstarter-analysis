@@ -2,7 +2,7 @@
 # kickstarter-analysis
 Performing analysis on Kickstarter data to uncover trends
 
-# Kickstarting with Excel
+# Kickstarting with Excel - Analysis Challenge 1
 [Kickstarter_Challenge.xlsx](https://github.com/Julcatan/kickstarter-analysis/files/7400175/Kickstarter_Challenge.xlsx)
 ## Overview of Project
 
