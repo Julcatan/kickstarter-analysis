@@ -1,3 +1,6 @@
+[Kickstarter_Challenge.xlsx](https://github.com/Julcatan/kickstarter-analysis/files/7400175/Kickstarter_Challenge.xlsx)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91682586/138493524-2e1cb296-336e-40c9-91ac-d77c9e17d6f8.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91682586/138493545-5b3bf7c7-b5f4-4fb2-b641-3697ed52d0ba.png)
 # kickstarter-analysis
 Performing analysis on Kickstarter data to uncover trends
 
