@@ -101,18 +101,18 @@ The Parent Category “theater” contains subcategories that not necessarily ov
 
 The outcomes are only measured based on Launch date for the first analysis and only on Goals for the second one.
 There are likely more factors that influence the outcomes and could alter the conclusions:
-  * e.g. the length of the campaigns could have an influence.
-  * if Louise’s Campaign was to happen in a wealthy area the Giving Capacity and Likelihood of success in the same time frame could be higher. The results are drawn 
-  from different countries and the dataset does not include detailed locations. 
+        * e.g. the length of the campaigns could have an influence.
+        * if Louise’s Campaign was to happen in a wealthy area the Giving Capacity and Likelihood of success in the same time frame could be higher. The results are drawn 
+          from different countries and the dataset does not include detailed locations. 
 
 The data does not include how much money was spent per campaign to get the funding or how many donors were solicited.
 
 - What are some other possible tables and/or graphs that we could create?
 
-* Outcomes based on length of campaigns
-* Outcomes based on Goals drilled down to Louise’s location
-* Average number donation by number of backers 
-* Drill down - Outcomes based on single subcategory that aligns with what Louise is fundraising for.
+    * Outcomes based on length of campaigns
+    * Outcomes based on Goals drilled down to Louise’s location
+    * Average number donation by number of backers 
+    * Drill down - Outcomes based on single subcategory that aligns with what Louise is fundraising for.
 
 
 
