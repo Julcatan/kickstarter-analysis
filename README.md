@@ -1,6 +1,4 @@
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91682586/138493524-2e1cb296-336e-40c9-91ac-d77c9e17d6f8.png)
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91682586/138493545-5b3bf7c7-b5f4-4fb2-b641-3697ed52d0ba.png)
 # kickstarter-analysis
 Performing analysis on Kickstarter data to uncover trends
 
@@ -31,7 +29,8 @@ I performed the Analysis of outcomes based on Launch Date by
 3.	Creating a line chart from the Pivot table to visualize the relationship between outcomes and launch month. It shows the number of successful, failed, or canceled 
     projects by month. I added the title and saved the Theater_Outcomes_vs_Launch.png file to the resource folder.
  
- ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91682586/138493524-2e1cb296-336e-40c9-91ac-d77c9e17d6f8.png)
+ ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91682586/138494542-4d2dfa9d-ef3a-476c-852d-bd1f98adf531.png)
+
  ### Analysis of Outcomes Based on Goals
 
 1.	I created a new sheet and label it "Outcomes Based on Goals."
@@ -73,7 +72,7 @@ I performed the Analysis of outcomes based on Launch Date by
 ### Challenges and Difficulties Encountered
 
 Analysis of Outcomes Based on Launch Date: 
-* It was challenging that the Dates did not show as months like in the sample output. I used the Hint in the instruction to Group the dates by month.*
+* It was challenging that the Dates did not show as months like in the sample output. I used the Hint in the instruction to Group the dates by month.
 
 Analysis of Outcomes Based on Goals: 
 * It was tedious to retype formulas and change the text from “successful” to “failed” or “canceled” in the formulas. I copied and pasted formulas and used Replace under the Find menu to replace the text for each column.*
