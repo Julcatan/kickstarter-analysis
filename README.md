@@ -21,15 +21,22 @@ I performed the Analysis of outcomes based on Launch Date by
 2.	Creating a Pivot Table in a new worksheet labeled “Theater Outcomes by Launch Date”.
     * I marked the whole Kickstarter table, then clicked Insert Pivot table and chose to create it in a new worksheet. Then I named the worksheet “Theater Outcomes by 
     Launch Date”.
-    * I moved “Parent Category” and “Years” to the Filters section, added count of outcomes to the Values and pulled Date created = Launch Date to the rows section.
+    * I moved “Parent Category” and “Years” to the Filters section, added count of outcomes to the Values and pulled the Launch Date to the rows section.
+    
+    ![image](https://user-images.githubusercontent.com/91682586/138495853-b1883bb0-eda2-4fc4-a036-dd5b692f930e.png)
+    
     * I grouped the Dates by month. As of the instructions I set the Filter on the Parent Category to “theater”. Also, filtered the Columns to only show “successful”, 
     “failed”, and “canceled”.
+    
+    ![image](https://user-images.githubusercontent.com/91682586/138495917-cf98e5f6-6cf9-4ddd-9e18-46a706532ae2.png)
+
     * I sorted the campaign outcomes in descending order so "successful" is first.
+    
+    ![image](https://user-images.githubusercontent.com/91682586/138495947-5b597b93-131e-42c0-a2fe-fce419e441ad.png)
 
 3.	Creating a line chart from the Pivot table to visualize the relationship between outcomes and launch month. It shows the number of successful, failed, or canceled 
     projects by month. I added the title and saved the Theater_Outcomes_vs_Launch.png file to the resource folder.
- 
- ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91682586/138494542-4d2dfa9d-ef3a-476c-852d-bd1f98adf531.png)
+     ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91682586/138494542-4d2dfa9d-ef3a-476c-852d-bd1f98adf531.png)
 
  ### Analysis of Outcomes Based on Goals
 
@@ -60,7 +67,9 @@ I performed the Analysis of outcomes based on Launch Date by
     The formula I used looks like this: =B2/E2
 
     I changed the column to a percentage format.
- 
+    
+    ![image](https://user-images.githubusercontent.com/91682586/138496227-11429995-5729-4e9d-a10c-830334530c0a.png)
+
 7.	I created the line chart to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on 
     the y- axis. I highlighted the Columns Goal, Number Successful, Number failed, Number Canceled, Percentage Successful, Percentage Failed and Percentage Canceled. 
     I then inserted the Line Chart.
