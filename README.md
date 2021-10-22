@@ -26,7 +26,7 @@ I performed the Analysis of outcomes based on Launch Date by
     “failed”, and “canceled”.
     I sorted the campaign outcomes in descending order so "successful" is first.
 
-3.	I created a line chart from the Pivot table to visualize the relationship between outcomes and launch month. It shows the number of successful, failed, or canceled 
+3.	Creating a line chart from the Pivot table to visualize the relationship between outcomes and launch month. It shows the number of successful, failed, or canceled 
     projects by month. I added the title and saved the Theater_Outcomes_vs_Launch.png file to the resource folder.
  
  
