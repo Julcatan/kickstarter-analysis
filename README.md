@@ -48,7 +48,7 @@ I performed the Analysis of outcomes based on Launch Date by
     The last range showed Greater than 50,000 but is really asking for amounts greater or equal to 50,000. I changed the label to reflect that.
 
 4.	I Used Countifs() functions with multiple criteria to populate the "Number successful," "Number failed," and "Number canceled" columns by filtering
-    on the Kickstarter  "outcome" column, on the "goal" amount column using the goal ranges and on the "Subcategory" column using "plays" as the criteria.
+    on the Kickstarter "outcome" column, on the "goal" amount column using the goal ranges and on the "Subcategory" column using "plays" as the criteria.
 
     The formula I used looks like this:
     =COUNTIFS(Kickstarter!$F:$F, "successful", Kickstarter!$D:$D,"<1000",Kickstarter!R:R, "plays")
@@ -85,17 +85,15 @@ The number of failed campaigns is spread relatively equal throughout the year. T
 
 - What can you conclude about the Outcomes based on Goals?
 
-Campaigns with lower Goals have higher success rates. 
-
+Campaigns with low Goals have higher success rates. 
 Campaigns with Goals less than 1000 have the highest success rates with 76%, followed by campaigns between 1000 to 4999 with a success rate of 73%. The fail rates for these campaigns are low, under 30%.
 
-For goals between 35000 and 45000 there is a plateau where success rates are relatively high at 67% while fail rates are at 33%. 
-For Goals between 20000 and 35000 the success rate is very low, and the percentage failed very high.
+For goals between 35000 and 45000 there is a plateau where success rates are relatively high at 67% while fail rates are at only 33%. 
+
 
 - What are some limitations of this dataset?
 
-The available timeframe covers the years 2009 through 2017. Newer data could give insight into recent trends that are currently missing in our analysis.
-There could be gaps in the data for cancelled campaigns. 
+The available timeframe covers the years 2009 through 2017. Newer data could give insight into recent trends that are currently missing in the analysis.
 
 The Parent Category “theater” contains subcategories that not necessarily overlap with what Louise is fundraising for, e.g. restoration of theaters. 
 
@@ -106,6 +104,8 @@ There are likely more factors that influence the outcomes and could alter the co
           from different countries and the dataset does not include detailed locations. 
 
 The data does not include how much money was spent per campaign to get the funding or how many donors were solicited.
+
+There could be gaps in the data for cancelled campaigns. 
 
 - What are some other possible tables and/or graphs that we could create?
 
