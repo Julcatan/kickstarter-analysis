@@ -1,11 +1,11 @@
-[Kickstarter_Challenge.xlsx](https://github.com/Julcatan/kickstarter-analysis/files/7400175/Kickstarter_Challenge.xlsx)
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91682586/138493524-2e1cb296-336e-40c9-91ac-d77c9e17d6f8.png)
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91682586/138493545-5b3bf7c7-b5f4-4fb2-b641-3697ed52d0ba.png)
 # kickstarter-analysis
 Performing analysis on Kickstarter data to uncover trends
 
 # Kickstarting with Excel
-
+[Kickstarter_Challenge.xlsx](https://github.com/Julcatan/kickstarter-analysis/files/7400175/Kickstarter_Challenge.xlsx)
 ## Overview of Project
 
 ### Purpose
@@ -31,7 +31,7 @@ I performed the Analysis of outcomes based on Launch Date by
 3.	Creating a line chart from the Pivot table to visualize the relationship between outcomes and launch month. It shows the number of successful, failed, or canceled 
     projects by month. I added the title and saved the Theater_Outcomes_vs_Launch.png file to the resource folder.
  
- 
+ ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91682586/138493524-2e1cb296-336e-40c9-91ac-d77c9e17d6f8.png)
  ### Analysis of Outcomes Based on Goals
 
 1.	I created a new sheet and label it "Outcomes Based on Goals."
@@ -67,6 +67,8 @@ I performed the Analysis of outcomes based on Launch Date by
     I then inserted the Line Chart.
  
 8.	I saved the chart as Outcomes_vs_Goals.png to the resources folder.
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91682586/138493545-5b3bf7c7-b5f4-4fb2-b641-3697ed52d0ba.png)
 
 ### Challenges and Difficulties Encountered
 
