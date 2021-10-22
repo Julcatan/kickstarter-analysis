@@ -68,10 +68,10 @@ I performed the Analysis of outcomes based on Launch Date by
 ### Challenges and Difficulties Encountered
 
 Analysis of Outcomes Based on Launch Date: 
-*It was challenging that the Dates did not show as months like in the sample output. I used the Hint in the instruction to Group the dates by month.*
+* It was challenging that the Dates did not show as months like in the sample output. I used the Hint in the instruction to Group the dates by month.*
 
 Analysis of Outcomes Based on Goals: 
-*It was tedious to retype formulas and change the text from “successful” to “failed” or “canceled” in the formulas. I copied and pasted formulas and used Replace under the Find menu to replace the text for each column.*
+* It was tedious to retype formulas and change the text from “successful” to “failed” or “canceled” in the formulas. I copied and pasted formulas and used Replace under the Find menu to replace the text for each column.*
 
 
 ## Results
@@ -97,6 +97,7 @@ The Parent Category “theater” contains subcategories that not necessarily ov
 
 The outcomes are only measured based on Launch date for the first analysis and only on Goals for the second one.
 There are likely more factors that influence the outcomes and could alter the conclusions:
+
         * e.g. the length of the campaigns could have an influence.
         * if Louise’s Campaign was to happen in a wealthy area the Giving Capacity and Likelihood of success in the same time frame could be higher. The results are drawn 
           from different countries and the dataset does not include detailed locations.
