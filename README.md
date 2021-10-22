@@ -18,13 +18,12 @@ I performed the Analysis of outcomes based on Launch Date by
 1.	Adding a Year column based on the Launch Date.
     I used the Code: =YEAR(S3) and copied it down with a double click.	
 2.	Creating a Pivot Table in a new worksheet labeled “Theater Outcomes by Launch Date”.
-
-    I marked the whole Kickstarter table, then clicked Insert Pivot table and chose to create it in a new worksheet. Then I named the worksheet “Theater Outcomes by 
+    * I marked the whole Kickstarter table, then clicked Insert Pivot table and chose to create it in a new worksheet. Then I named the worksheet “Theater Outcomes by 
     Launch Date”.
-    I moved “Parent Category” and “Years” to the Filters section, added count of outcomes to the Values and pulled Date created = Launch Date to the rows section.
-    I grouped the Dates by month. As of the instructions I set the Filter on the Parent Category to “theater”. Also, filtered the Columns to only show “successful”, 
+    * I moved “Parent Category” and “Years” to the Filters section, added count of outcomes to the Values and pulled Date created = Launch Date to the rows section.
+    * I grouped the Dates by month. As of the instructions I set the Filter on the Parent Category to “theater”. Also, filtered the Columns to only show “successful”, 
     “failed”, and “canceled”.
-    I sorted the campaign outcomes in descending order so "successful" is first.
+    * I sorted the campaign outcomes in descending order so "successful" is first.
 
 3.	Creating a line chart from the Pivot table to visualize the relationship between outcomes and launch month. It shows the number of successful, failed, or canceled 
     projects by month. I added the title and saved the Theater_Outcomes_vs_Launch.png file to the resource folder.
@@ -35,14 +34,14 @@ I performed the Analysis of outcomes based on Launch Date by
 1.	I created a new sheet and label it "Outcomes Based on Goals."
 
 2.	In the new sheet I added the following columns to hold the data:
-  *	Goal
-  *	Number Successful
-  *	Number Failed
-  *	Number Canceled
-  *	Total Projects
-  *	Percentage Successful
-  *	Percentage Failed
-  *	Percentage Canceled
+     *	Goal
+     *	Number Successful
+     *	Number Failed
+     *	Number Canceled
+     *	Total Projects
+     *	Percentage Successful
+     *	Percentage Failed
+     *	Percentage Canceled
 
 3.	I created the dollar-amount ranges according to the instructions in the Goal Column.
     The last range showed Greater than 50,000 but is really asking for amounts greater or equal to 50,000. I changed the label to reflect that.
@@ -81,7 +80,7 @@ Analysis of Outcomes Based on Goals:
 
 The purpose of the analysis was to support Louise’s decision on timing for her fundraising Campaign.
 The analysis suggests that the best time to launch a successful campaign would be in May, followed by June and July. 
-The number of failed campaigns is spread relatively equal throughout the year. Timing does not seem to have a big influence here. 
+The number of failed campaigns is spread relatively equal throughout the year. The Launch date does not seem to have a big influence on how many campaigns fail. 
 
 - What can you conclude about the Outcomes based on Goals?
 
@@ -89,7 +88,6 @@ Campaigns with low Goals have higher success rates.
 Campaigns with Goals less than 1000 have the highest success rates with 76%, followed by campaigns between 1000 to 4999 with a success rate of 73%. The fail rates for these campaigns are low, under 30%.
 
 For goals between 35000 and 45000 there is a plateau where success rates are relatively high at 67% while fail rates are at only 33%. 
-
 
 - What are some limitations of this dataset?
 
@@ -101,9 +99,8 @@ The outcomes are only measured based on Launch date for the first analysis and o
 There are likely more factors that influence the outcomes and could alter the conclusions:
         * e.g. the length of the campaigns could have an influence.
         * if Louise’s Campaign was to happen in a wealthy area the Giving Capacity and Likelihood of success in the same time frame could be higher. The results are drawn 
-          from different countries and the dataset does not include detailed locations. 
-
-The data does not include how much money was spent per campaign to get the funding or how many donors were solicited.
+          from different countries and the dataset does not include detailed locations.
+        * The data does not include how much money was spent per campaign to get the funding or how many donors were solicited.
 
 There could be gaps in the data for cancelled campaigns. 
 
